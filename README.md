@@ -106,11 +106,9 @@ python main.py
 
 ---
 
-## 👩‍💻 Authors
+## 👩‍💻 Author
 
 * K. Rupa Rasagna
-* Tera Bhavitha
-* Y. Pranavi Teja
 
 ---
 
